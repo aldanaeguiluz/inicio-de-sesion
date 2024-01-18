@@ -1,0 +1,29 @@
+#login{
+    border: 2px;
+    border-style: solid;
+    border-color: gainsboro;
+}
+
+.contenedor{
+    width:70%;
+}
+
+.col{
+    margin: 2px;
+}
+
+.grupo{
+    width: 100%;
+}
+
+.boton{
+    width: 100%;
+    border: 2px;
+    border-style: solid;
+    border-color: gainsboro;
+}
+
+hr{
+    height: 2px;
+    background-color: gainsboro;
+}

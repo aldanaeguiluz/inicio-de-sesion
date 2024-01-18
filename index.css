@@ -1,0 +1,11 @@
+#login{
+    width: 30%;
+    min-width: 400px;
+    border: 2px;
+    border-style: solid;
+    border-color: gainsboro;
+}
+
+button{
+    width: 100%;
+}
